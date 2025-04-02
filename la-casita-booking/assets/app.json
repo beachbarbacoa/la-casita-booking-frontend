@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Cayman Commute",
+    "slug": "cayman-commute",
+    "version": "1.0.0",
+    "ios": {
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to scan your card for payment processing."
+      }
+    },
+    "android": {
+      "permissions": ["CAMERA"]
+    }
+  }
+}
