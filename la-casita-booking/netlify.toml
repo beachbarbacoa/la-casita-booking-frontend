@@ -1,5 +1,4 @@
 [build]
-  base = "Components"
   command = "npm install && npx expo build:web"
-  publish = "Components/web-build"
+  publish = "web-build"
   environment = { NODE_VERSION = "18" }
