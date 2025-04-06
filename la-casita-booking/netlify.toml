@@ -1,4 +1,0 @@
-[build]
-  command = "npm install && npx expo export:web"
-  publish = "web-build"
-  environment = { NODE_VERSION = "18" }
